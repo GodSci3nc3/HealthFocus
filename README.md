@@ -4,6 +4,8 @@
 
 **HealthyFocus** tiene como objetivo ayudar a los usuarios a gestionar su tiempo frente a dispositivos digitales de manera eficiente y adaptada a sus necesidades individuales. A través de un enfoque centrado en el usuario, la plataforma permitirá la creación de perfiles personalizados, el seguimiento de rutinas diarias, la configuración de metas de uso digital y la obtención de recomendaciones basadas en hábitos detectados.
 
+<img src = "https://github.com/user-attachments/assets/8c6b2ec7-8a90-4d8e-9336-8c029a29d59f" alt = "Portada de HealthFocus" style = "width: 600px; height: 600px;">
+
 ## 🎯 Funcionalidades Clave
 
 ### 🔑 Autenticación de Usuarios
