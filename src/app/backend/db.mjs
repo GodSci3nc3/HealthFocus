@@ -29,5 +29,7 @@ pool.getConnection((err, connection) => {
     return;
 });
 
+//Del modulo vamos a pasarle el metodo pool para utilizar promesas o convirtiendo callbacks a promesas
+pool.query = promisify(pool.query);
 //Exportar la conexión para poder usarla en otros archivos
 export default pool;
